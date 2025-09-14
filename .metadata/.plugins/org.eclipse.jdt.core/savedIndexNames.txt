@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+C:\samurai\kadai_002\.metadata\.plugins\org.eclipse.jdt.core
-2740915860.index
-1865797976.index
-1451924007.index
-2145205572.index
-1820054131.index
